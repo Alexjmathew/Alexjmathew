@@ -16,9 +16,9 @@ Passionate about leveraging AI/ML and data science to build innovative solutions
 ---
 
 ### 🛠️ Technical Skills
-**📊 Data Science & ML:** Python, Pandas, Scikit-learn, TensorFlow, Azure ML  
-**💻 Software Engineering:** Java, UML, ER Diagrams, Power BI  
-**☁️ Cloud/Tools:** GitHub, Google Colab, Streamlit, OpenAI  
+**📊 Data Science & ML** 
+**💻 Software Engineering**  
+**☁️ Cloud/Tools** 
 
 ---
 
