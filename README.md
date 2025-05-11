@@ -58,12 +58,7 @@ Passionate AI/ML engineer with expertise in building intelligent systems and dat
 
 ---
 
-### 📈 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexjmathew&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexjmathew&layout=compact&theme=radical)](https://github.com/Alexjmathew/github-readme-stats)
-
----
 
 ### 📫 Let's Collaborate!
 - 📧 **Email:** alexjmt1@gmail.com  
